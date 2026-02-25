@@ -1,0 +1,9 @@
+data/chirps_v3_monthly/*
+test.py
+seasonal_mask.ipynb
+.filedump
+.venv
+__pycache__/*
+__marimo__/*
+.vscode
+download_and_make_chirps3_mask.py
